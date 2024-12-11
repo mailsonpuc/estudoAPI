@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "oEFsqsFdN1efpJW28Wr/EEAfYlRR4ms0+2MSWKqMlxI=",
+  "Source": "meuapp",
+  "BasePath": "_content/meuapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
